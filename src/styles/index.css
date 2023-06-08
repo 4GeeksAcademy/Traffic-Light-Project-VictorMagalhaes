@@ -10,3 +10,72 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.container{
+    display: block;
+    align-content: center;
+    
+}
+
+.red{
+    background-color: red;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    cursor:pointer;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    
+
+}
+.yellow{
+    background-color: yellow;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    cursor:pointer;
+    margin-bottom: 15px;
+}
+
+.green{
+    background-color: green;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    cursor:pointer;
+   
+}
+
+.supporter{
+    background-color: black;
+    height: 80px;
+    width: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.trafficLight{
+    height: 450px;
+    width: 160px;
+    background-color: black;
+    border-radius: 10%;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+ 
+    
+}
+
+.glow{
+    box-shadow: 0px 0px 16px 8px yellowgreen;
+}
+
+.button{
+    margin-top: 60px;
+    margin-right: auto;
+    
+}
+button{
+    border-radius: 100%;
+    font-size: 50px;
+    background-color: rgb(120, 120, 187);
+    padding: 10px;
+}
